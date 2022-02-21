@@ -1,8 +1,4 @@
-*.a
-*.control
 *.DS_Store
-*.o
-*.so
 test/JDBC/Info/
 test/JDBC/output/*
 test/JDBC/target/classes/*
